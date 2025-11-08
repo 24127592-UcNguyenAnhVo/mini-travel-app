@@ -72,7 +72,7 @@ Vui lòng thực hiện các bước sau để tạo file key của riêng bạn
 
 ---
 
-## 4. 🚀 Hướng dẫn chạy (Google Colab - Khuyên dùng)
+## 4. 🚀 Hướng dẫn chạy (Google Colab)
 
 Đây là cách chạy chuẩn cho file `.ipynb` này:
 
